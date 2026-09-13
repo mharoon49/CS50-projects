@@ -6,7 +6,7 @@
 
 int main(int argc, string argv[])
 {
-    // Making sure for only one command-line argument.
+    // Making sure for only one command-line argument. 
     if (argc != 2)
     {
         printf("Usage: ./caesar key\n");
